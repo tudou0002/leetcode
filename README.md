@@ -16,7 +16,7 @@
 
 | # | title | difficulty | idea of thoughts |
 |---|-------|------------|------------------|
-|   |       | easy       |                  |
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)| easy       | [ascii, int to char](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0709ToLowerCase.java)   |
 |   |       | easy       |                  |
 |   |       | easy       |                  |
 
@@ -32,11 +32,10 @@
 
 ### Tree
 
-| # | title | difficulty | idea of thoughts |
-|---|-------|------------|------------------|
-|   |       | easy       |                  |
-|   |       | easy       |                  |
-|   |       | easy       |                  |
-
+| #   | title            | difficulty | idea of thoughts |
+|-----|------------------|------------|------------------|
+| 938 |[Range Sum Of BST](https://leetcode.com/problems/range-sum-of-bst/) | easy       | [recursion](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0938RangeSumOfBST.java)        |
+|     |                  | easy       |                  |
+|     |                  | easy       |                  |
 
 

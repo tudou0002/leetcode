@@ -17,8 +17,8 @@
 | # | title | difficulty | idea of thoughts |
 |---|-------|------------|------------------|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)| easy       | [ascii, int to char](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0709ToLowerCase.java)   |
-|   |       | easy       |                  |
-|   |       | easy       |                  |
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| easy          |[parentheses counter, StringBuilder](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/1021RemoveOutermostParentheses.java) |
+|804 |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| easy       |[hashmap](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0804UniqueMorseCodeWords.java)                  |
 
 
 ### Math

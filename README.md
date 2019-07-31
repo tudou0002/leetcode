@@ -10,6 +10,7 @@
 | 905 |       | easy       |                  |
 | 961 |       | easy       |                  |
 | 977 |       | easy       |                  |
+|832|[Flipping an image](https://leetcode.com/problems/flipping-an-image/) |easy|[put data in a reversing order](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0832FlippingAnImage.java)|
 
 
 ### String
@@ -19,6 +20,8 @@
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)| easy       | [ascii, int to char](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0709ToLowerCase.java)   |
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| easy          |[parentheses counter, StringBuilder](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/1021RemoveOutermostParentheses.java) |
 |804 |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| easy       |[hashmap](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0804UniqueMorseCodeWords.java)                  |
+|657 |[Robot return to origin](https://leetcode.com/problems/robot-return-to-origin/)| easy| [advanced for loop is faster, switch case instead of long elif condition](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0657RobotReturnToOrigin.java)|
+
 
 
 ### Math

@@ -28,7 +28,7 @@
 
 | # | title | difficulty | idea of thoughts |
 |---|-------|------------|------------------|
-|   |       | easy       |                  |
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| easy    |[bitwise operator, Integer.bitCount](https://github.com/tudou0002/leetcode_java/blob/master/problems/easy/0461HammingDistance.java)      |
 |   |       | easy       |                  |
 |   |       | easy       |                  |
 
